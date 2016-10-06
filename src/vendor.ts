@@ -5,6 +5,7 @@ import '@angular/core';
 import '@angular/common';
 import '@angular/http';
 import '@angular/router';
+import 'angular2-in-memory-web-api';
 // RxJS
 import 'rxjs';
 // Other vendors for example jQuery, Lodash or Bootstrap
